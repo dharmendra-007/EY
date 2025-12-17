@@ -274,9 +274,10 @@ export default function LandingPage() {
       <section id="security" className="border-t border-white/5 py-8">
         <div className="mx-auto flex max-w-6xl flex-col justify-between gap-4 px-4 text-xs text-slate-400 md:flex-row md:items-center">
           <p>Bank-grade encryption • RBI-compliant data practices</p>
-          <p>© {new Date().getFullYear()} LendFlow. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} TIARA. All rights reserved.</p>
         </div>
       </section>
     </div>
   );
+
 }
